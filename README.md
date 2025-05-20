@@ -52,13 +52,13 @@
 <h3 align="left">🧰 Frameworks, etc:</h3>
 <p align="left">
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/aspnet-mvc" alt="aspnet-mvc" width="40" height="40"/>
+        <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/aspnet-mvc.png" alt="aspnet-mvc" width="40" height="40"/>
     </a>
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-api" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/aspnet-web-api" alt="aspnet-web-api" width="40" height="40"/>
+        <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/aspnet-web-api.png" alt="aspnet-web-api" width="40" height="40"/>
     </a>
     <a href="https://www.odata.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/odata" alt="odata" width="40" height="40"/>
+        <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/odata.png" alt="odata" width="40" height="40"/>
     </a>
 </p>
 
