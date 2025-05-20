@@ -61,7 +61,7 @@
     <a href="https://orchardcore.net/" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/orchard.png" alt="orchard-cms" width="60" height="60"/>
     </a>
-    <a href="https://www.optimizely.com/optimization-platform/" target="_blank" rel="noreferrer">
+    <a href="https://www.optimizely.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/episerver.png" alt="episerver-cms" width="120" height="60"/>
     </a>
     <a href="https://www.nopcommerce.com/" target="_blank" rel="noreferrer">
@@ -70,10 +70,10 @@
     <a href="https://aurelia.io/" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/aurelia.jpg" alt="aurelia" width="60" height="60"/>
     </a>
-    <a href="http://durandaljs.com/" target="_blank" rel="noreferrer">
+    <a href="https://web.archive.org/web/20141227005720/http://durandaljs.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/durandal.png" alt="durandal" width="120" height="60"/>
     </a>
-    <a href="https://knockoutjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://knockoutjs.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/knockout.png" alt="knockoutjs" width="60" height="60"/>
     </a>
     <a href="https://requirejs.org/" target="_blank" rel="noreferrer">
