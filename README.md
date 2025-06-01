@@ -99,7 +99,8 @@
 
 StackOverflow Reputation: 
 
-<a href="https://stackoverflow.com/users/504031/matt" target="_blank">
-<img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=504031" />
-</a>
+<p>
+    <a href="https://stackoverflow.com/users/504031/matt" target="_blank">
+        <img src="https://stackoverflow.com/users/flair/504031.png?theme=dark" width="208" height="58" alt="Matt Gordon" title="Stack Overflow, Q&amp; Profile info">
+    </a>
+</p>
