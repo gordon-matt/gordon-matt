@@ -8,8 +8,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gordon-matt&theme=dark" alt="gordon-matt" /></p>
 
----
-
 <h3 align="left">🛠️ Languages:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -25,8 +23,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
     </a>
 </p>
-
----
 
 ### 🗄️ Databases:
 
@@ -50,8 +46,6 @@
 		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/>
 	</a>
 </p>
-
----
 
 <h3 align="left">🧰 Frameworks, etc:</h3>
 <p align="left">
@@ -89,8 +83,6 @@
         <img src="https://github.com/gordon-matt/gordon-matt/blob/master/img/kendo.png" alt="kendo-ui" width="60" height="60"/>
     </a>
 </p>
-
----
 
 StackOverflow Reputation: 
 
