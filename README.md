@@ -3,10 +3,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=BSc+in+Computer+Science;.NET+Developer;C%23+%7C+JavaScript+%7C+SQL)](https://gordon-matt.github.io/MyResume)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gordon-matt&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="gordon-matt" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gordon-matt&show_icons=true&theme=dark&locale=en" alt="gordon-matt" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gordon-matt&theme=dark" alt="gordon-matt" /></p>
+
+<h3 align="left">⭐ Top Projects::</h3>
+
+- [Extenso Code Library](https://github.com/gordon-matt/Extenso) - More than just an extensions library - various helper classes, data access code, even a lightweight alternative to AutoMapper.
+
+- [Mantle CMS](https://github.com/gordon-matt/MantleCMS) - Mantle is a multi-purpose framework and CMS loaded with functionality and features that can be used for creating pretty much any type of website. Built on .NET Core
+
+- [Responsive File Manager for .NET Core using PeachPie](https://github.com/gordon-matt/peachpie-responsive-file-manager) - Responsive File Manager running on .NET Core with Peachpie.
+
+- [elFinder.NetCore](https://github.com/gordon-matt/elFinder.NetCore) - elFinder connector for .NET Core
+
+- [CodeShop](https://github.com/gordon-matt/CodeShop) - Code Shop is a database centric template based code generator for any text(ascii) programming language like C, PHP, C#, Visual Basic, Java, Perl, Python… Supported databases are SQL Server, MySQL, PostgreSQL and Oracle
+
+- [Kore CMS](https://github.com/gordon-matt/KoreCMS) - The precursor to Mantle CMS mentioned above. This one was built on MVC5.
+
+- [DevToys Code Generator](https://github.com/gordon-matt/Heroicsoft.DevToys.CodeGenerator) - DevToys Code Generator is a tool that helps you generate code snippets. Use the liquid templating language to iterate over a list of strings, JSON data or a CSV file
+
+- [Data Migrator](https://github.com/gordon-matt/DataMigrator) - Migrate data from any database system to any database system - extensible via plugins (developed with MEF).
 
 <h3 align="left">🛠️ Languages:</h3>
 <p align="left">
