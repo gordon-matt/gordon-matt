@@ -6,27 +6,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gordon-matt&show_icons=true&theme=dark&locale=en" alt="gordon-matt" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gordon-matt&theme=dark" alt="gordon-matt" /></p>
 
-<h3 align="left">⭐ Top Projects::</h3>
+<h3 align="left">⭐ Top Projects:</h3>
 
-- [Extenso Code Library](https://github.com/gordon-matt/Extenso) - More than just an extensions library - various helper classes, data access code, even a lightweight alternative to AutoMapper.
-
-- [Mantle CMS](https://github.com/gordon-matt/MantleCMS) - Mantle is a multi-purpose framework and CMS loaded with functionality and features that can be used for creating pretty much any type of website. Built on .NET Core
-
-- [Responsive File Manager for .NET Core using PeachPie](https://github.com/gordon-matt/peachpie-responsive-file-manager) - Responsive File Manager running on .NET Core with Peachpie.
-
-- [elFinder.NetCore](https://github.com/gordon-matt/elFinder.NetCore) - elFinder connector for .NET Core
-
-- [Dependo](https://github.com/gordon-matt/Dependo) - Need to utilize dependency injection within extension methods or other challenging contexts? Or perhaps you're building a framework and want it to remain agnostic to any particular DI container, giving users the freedom to choose their own? Dependo has you covered.
-
-- [CodeShop](https://github.com/gordon-matt/CodeShop) - Code Shop is a database centric template based code generator for any text(ascii) programming language like C, PHP, C#, Visual Basic, Java, Perl, Python… Supported databases are SQL Server, MySQL, PostgreSQL and Oracle
-
-- [Doxie](https://github.com/gordon-matt/Doxie) - Help Generator for .NET Assemblies
-
-- [DevToys Code Generator](https://github.com/gordon-matt/Heroicsoft.DevToys.CodeGenerator) - DevToys Code Generator is a tool that helps you generate code snippets. Use the liquid templating language to iterate over a list of strings, JSON data or a CSV file
-
-- [Data Migrator](https://github.com/gordon-matt/DataMigrator) - Migrate data from any database system to any database system - extensible via plugins (developed with MEF).
-
-- [Kore CMS](https://github.com/gordon-matt/KoreCMS) - The precursor to Mantle CMS mentioned above. This one was built on MVC5.
+|      | Project | Description |
+|------|---------|-------------|
+| ![Extenso Logo](https://github.com/gordon-matt/Extenso/raw/master/_Misc/ExtensoLogo.png) | [Extenso Code Library](https://github.com/gordon-matt/Extenso) | More than just an extensions library - various helper classes, data access code, even a lightweight alternative to AutoMapper. |
+| ![Mantle CMS Logo](https://github.com/gordon-matt/MantleCMS/raw/master/MantleCMS/wwwroot/img/logo.png) | [Mantle CMS](https://github.com/gordon-matt/MantleCMS) | Mantle is a multi-purpose framework and CMS loaded with functionality and features that can be used for creating pretty much any type of website. Built on .NET Core |
+| ![Responsive File Manager Logo](https://github.com/gordon-matt/peachpie-responsive-file-manager/raw/master/Misc/logo.png) | [Responsive File Manager for .NET Core using PeachPie](https://github.com/gordon-matt/peachpie-responsive-file-manager) | Responsive File Manager running on .NET Core with Peachpie. |
+| ![elFinder Logo](https://github.com/gordon-matt/elFinder.NetCore/raw/master/_Misc/Logo.png) | [elFinder.NetCore](https://github.com/gordon-matt/elFinder.NetCore) | elFinder connector for .NET Core |
+| ![Dependo Logo](https://github.com/gordon-matt/Dependo/raw/master/_Misc/Logo.png) | [Dependo](https://github.com/gordon-matt/Dependo) | Need to utilize dependency injection within extension methods or other challenging contexts? Or perhaps you're building a framework and want it to remain agnostic to any particular DI container, giving users the freedom to choose their own? Dependo has you covered. |
+| ![CodeShop Logo](https://github.com/gordon-matt/CodeShop/raw/main/Misc/Logo.jpg) | [CodeShop](https://github.com/gordon-matt/CodeShop) | Code Shop is a database centric template based code generator for any text(ascii) programming language like C, PHP, C#, Visual Basic, Java, Perl, Python… Supported databases are SQL Server, MySQL, PostgreSQL and Oracle |
+| ![Doxie Logo](https://github.com/gordon-matt/Doxie/raw/master/_Misc/logos/Doxie.png) | [Doxie](https://github.com/gordon-matt/Doxie) | Help Generator for .NET Assemblies |
+| DevToys Code Generator | [DevToys Code Generator](https://github.com/gordon-matt/Heroicsoft.DevToys.CodeGenerator) | DevToys Code Generator is a tool that helps you generate code snippets. Use the liquid templating language to iterate over a list of strings, JSON data or a CSV file |
+| ![Data Migrator Logo](https://github.com/gordon-matt/DataMigrator/raw/master/_Misc/Logo.png) | [Data Migrator](https://github.com/gordon-matt/DataMigrator) | Migrate data from any database system to any database system - extensible via plugins (developed with MEF). |
+| ![Kore CMS Logo](https://github.com/Widecommerce/kore-cms/raw/master/KoreCMS/Media/kore-logo-dark.png) | [Kore CMS](https://github.com/gordon-matt/KoreCMS) | The precursor to Mantle CMS mentioned above. This one was built on MVC5. |
 
 <h3 align="left">🛠️ Languages:</h3>
 <p align="left">
