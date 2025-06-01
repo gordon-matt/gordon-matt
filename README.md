@@ -1,9 +1,12 @@
 # Hi 👋, I'm Matt
-### A .NET developer
 
-<p align="center">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=gordon-matt" alt="Contribution Stats"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=BSc+in+Computer+Science;.NET+Developer;C%23+%7C+JavaScript+%7C+SQL)](https://gordon-matt.github.io/MyResume)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gordon-matt&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="gordon-matt" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gordon-matt&show_icons=true&theme=dark&locale=en" alt="gordon-matt" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gordon-matt&theme=dark" alt="gordon-matt" /></p>
 
 ---
 
