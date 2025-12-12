@@ -1,4 +1,6 @@
-# Hi 👋, I'm Matt
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20Matt&fontColor=ffffff&desc=Senior%20.NET%20Developer&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=475&lines=BSc+in+Computer+Science;Microsoft+Certified+Solution+Developer;C%23+%7C+JavaScript+%7C+SQL)](https://gordon-matt.github.io/MyResume)
 
@@ -107,3 +109,5 @@ StackOverflow Reputation:
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=gordon-matt&label=GitHub%20Hits%20Since%202025-06-01%3A%20&color=ff0000&style=flat" alt="gordon-matt" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=120&section=footer"/>
