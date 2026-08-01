@@ -113,7 +113,7 @@ StackOverflow Reputation:
 
 ## Support
 
-If you find like my work, consider supporting me.
+If you like my work, consider supporting me.
 
 <p align="center">
   <a href="https://buymeacoffee.com/vnmatt">
