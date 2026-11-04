@@ -48,6 +48,9 @@
     <a href="https://github.com/gordon-matt/Pluginz" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Pluginz/raw/master/_Misc/Logo.png" alt="Pluginz" height="60"/>
     </a>&nbsp;
+    <a href="https://github.com/gordon-matt/Localize.NET" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/Localize.NET/raw/master/_Misc/Logo.png" alt="Localize.NET" height="60"/>
+    </a>&nbsp;
     <a href="https://github.com/gordon-matt/Flatmate" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Flatmate/raw/master/_Misc/Logo.png" alt="Flatmate" height="60"/>
     </a>&nbsp;
