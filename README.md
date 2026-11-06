@@ -14,16 +14,19 @@
 
 <p align="left">
     <a href="https://github.com/gordon-matt/WebFilez" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/WebFilez/blob/master/_Misc/Logo-Light.png" alt="WebFilez" height="60"/>
+        <img src="https://github.com/gordon-matt/WebFilez/raw/master/_Misc/Logo-Light.png" alt="WebFilez" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/elFinder.NetCore" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/elFinder.NetCore/blob/master/_Misc/Logo.png" alt="elFinder.NetCore" height="60"/>
+        <img src="https://github.com/gordon-matt/elFinder.NetCore/raw/master/_Misc/Logo.png" alt="elFinder.NetCore" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/MyWebTree" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/MyWebTree/blob/master/_Misc/Logo.png" alt="MyWebTree" height="60"/>
+        <img src="https://github.com/gordon-matt/MyWebTree/raw/master/_Misc/Logo.png" alt="MyWebTree" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/EasyChatz" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/EasyChatz/blob/master/_Misc/Logo.png" alt="EasyChatz" height="60"/>
+        <img src="https://github.com/gordon-matt/EasyChatz/raw/master/_Misc/Logo.png" alt="EasyChatz" height="60"/>
+    </a>&nbsp;
+    <a href="https://github.com/gordon-matt/QueryKrafter" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/QueryKrafter/raw/master/_Misc/Logo.png" alt="QueryKrafter" height="60"/>
     </a>
 </p>
 
@@ -50,6 +53,9 @@
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/Localize.NET" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Localize.NET/raw/master/_Misc/Logo.png" alt="Localize.NET" height="60"/>
+    </a>>&nbsp;
+    <a href="https://github.com/gordon-matt/Kameleon" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/Kameleon/raw/master/_Misc/Logo.png" alt="Kameleon" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/Flatmate" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Flatmate/raw/master/_Misc/Logo.png" alt="Flatmate" height="60"/>
@@ -61,10 +67,10 @@
         <img src="https://github.com/gordon-matt/Dependo/raw/master/_Misc/Logo.png" alt="Dependo" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/Localize.NET" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/Localize.NET/blob/master/_Misc/Logo.png" alt="Localize.NET" height="60"/>
+        <img src="https://github.com/gordon-matt/Localize.NET/raw/master/_Misc/Logo.png" alt="Localize.NET" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/GedcomSharp" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/GedcomSharp/blob/master/_Misc/Logo.png" alt="Gedcom #" height="60"/>
+        <img src="https://github.com/gordon-matt/GedcomSharp/raw/master/_Misc/Logo.png" alt="Gedcom #" height="60"/>
     </a>
 </p>
 
@@ -72,22 +78,22 @@
 
 <p align="left">
     <a href="https://github.com/gordon-matt/Kinnect" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/Kinnect/blob/master/_Misc/Logo.png" alt="Kinnect" height="60"/>
+        <img src="https://github.com/gordon-matt/Kinnect/raw/master/_Misc/Logo.png" alt="Kinnect" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/MyVideoArchive" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/MyVideoArchive/blob/master/_Misc/Logo_Background.jpg" alt="MyVideoArchive" height="60"/>
+        <img src="https://github.com/gordon-matt/MyVideoArchive/raw/master/_Misc/Logo_Background.jpg" alt="MyVideoArchive" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/PicStashly" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/PicStashly/blob/master/_Misc/Logo.png" alt="PicStashly" height="60"/>
+        <img src="https://github.com/gordon-matt/PicStashly/raw/master/_Misc/Logo.png" alt="PicStashly" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/ReelSoon" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/ReelSoon/blob/master/_Misc/Logo.png" alt="ReelSoon" height="60"/>
+        <img src="https://github.com/gordon-matt/ReelSoon/raw/master/_Misc/Logo.png" alt="ReelSoon" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/Shelfwarden" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/Shelfwarden/blob/master/_Misc/Logo.png" alt="Shelfwarden" height="60"/>
+        <img src="https://github.com/gordon-matt/Shelfwarden/raw/master/_Misc/Logo.png" alt="Shelfwarden" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/Snippetz" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/Snippetz/blob/master/_Misc/Logo.jpg" alt="Snippetz" height="60"/>
+        <img src="https://github.com/gordon-matt/Snippetz/raw/master/_Misc/Logo.jpg" alt="Snippetz" height="60"/>
     </a>&nbsp;
 </p>
 
@@ -130,12 +136,12 @@ If you like my work, consider supporting me.
 
 <p align="center">
   <a href="https://buymeacoffee.com/vnmatt">
-    <img src="https://github.com/gordon-matt/MyResume/blob/gh-pages/assets/images/BuyMeACoffee_Logo.png"
+    <img src="https://github.com/gordon-matt/MyResume/raw/gh-pages/assets/images/BuyMeACoffee_Logo.png"
          alt="Buy Me a Coffee"
          height="40">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gordon_matt%40live%2ecom&lc=AU&currency_code=AUD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">
-    <img src="https://github.com/gordon-matt/MyResume/blob/gh-pages/assets/images/PayPal_Logo.png"
+    <img src="https://github.com/gordon-matt/MyResume/raw/gh-pages/assets/images/PayPal_Logo.png"
          alt="Donate with PayPal"
          height="40">
   </a>
@@ -147,7 +153,7 @@ If you like my work, consider supporting me.
 
 <p align="center">
   <a href="https://buymeacoffee.com/vnmatt">
-    <img src="https://github.com/gordon-matt/MyResume/blob/gh-pages/assets/images/BuyMeACoffee_QR.png"
+    <img src="https://github.com/gordon-matt/MyResume/raw/gh-pages/assets/images/BuyMeACoffee_QR.png"
          alt="Buy Me a Coffee QR Code"
          width="180">
   </a>
