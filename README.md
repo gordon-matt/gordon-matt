@@ -6,7 +6,6 @@
 
 <p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=gordon-matt&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="gordon-matt" /></p>
 <p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=gordon-matt&show_icons=true&theme=dark&locale=en" alt="gordon-matt" /></p>
-<p><img align="center" src="./profile/streak.svg" alt="gordon-matt" /></p>
 
 <h2 align="left">⭐ Top Projects:</h2>
 
@@ -129,6 +128,8 @@ StackOverflow Reputation:
         <img src="https://stackoverflow.com/users/flair/504031.png?theme=dark" width="208" height="58" alt="Matt Gordon" title="Stack Overflow, Q&amp; Profile info">
     </a>
 </p>
+
+<p><img align="center" src="./profile/streak.svg" alt="gordon-matt" /></p>
 
 ## Support
 
