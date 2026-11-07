@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=475&lines=BSc+in+Computer+Science;Microsoft+Certified+Solution+Developer;C%23+%7C+JavaScript+%7C+SQL)](https://gordon-matt.github.io/MyResume)
 
-<p><img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=gordon-matt&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="gordon-matt" /></p>
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=gordon-matt&show_icons=true&theme=dark&locale=en" alt="gordon-matt" /></p>
+<p><img align="left" src="./profile/top-langs.svg" alt="gordon-matt" /></p>
+<p>&nbsp;<img align="center" src="./profile/stats.svg" alt="gordon-matt" /></p>
 
 <h2 align="left">⭐ Top Projects:</h2>
 
