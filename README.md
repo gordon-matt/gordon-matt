@@ -18,6 +18,9 @@
     <a href="https://github.com/gordon-matt/elFinder.NetCore" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/elFinder.NetCore/raw/master/_Misc/Logo.png" alt="elFinder.NetCore" height="60"/>
     </a>&nbsp;
+    <a href="https://github.com/gordon-matt/GridKrafter" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/GridKrafter/raw/master/_Misc/Logo.png" alt="GridKrafter" height="60"/>
+    </a>
     <a href="https://github.com/gordon-matt/MyWebTree" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/MyWebTree/raw/master/_Misc/Logo.png" alt="MyWebTree" height="60"/>
     </a>&nbsp;
