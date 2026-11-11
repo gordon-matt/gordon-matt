@@ -68,9 +68,6 @@
     <a href="https://github.com/gordon-matt/Dependo" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Dependo/raw/master/_Misc/Logo.png" alt="Dependo" height="60"/>
     </a>&nbsp;
-    <a href="https://github.com/gordon-matt/Localize.NET" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/Localize.NET/raw/master/_Misc/Logo.png" alt="Localize.NET" height="60"/>
-    </a>&nbsp;
     <a href="https://github.com/gordon-matt/GedcomSharp" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/GedcomSharp/raw/master/_Misc/Logo.png" alt="Gedcom #" height="60"/>
     </a>
