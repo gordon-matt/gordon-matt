@@ -9,6 +9,17 @@
 
 <h2 align="left">⭐ Top Projects:</h2>
 
+<h3>🗂️ CMS Solutions</h3>
+
+<p align="left">
+    <a href="https://github.com/gordon-matt/Inferno" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/Inferno/raw/master/InfernoCMS/wwwroot/img/Logo_Dark.png" alt="Inferno" height="60"/>
+    </a>&nbsp;
+    <a href="https://github.com/gordon-matt/MantleCMS" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/MantleCMS/raw/master/MantleCMS/wwwroot/img/logo.png" alt="MantleCMS" height="60"/>
+    </a>
+</p>
+
 <h3>🧩 Components</h3>
 
 <p align="left">
@@ -107,17 +118,6 @@
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/Queryz" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Queryz/raw/main/_Misc/Logo_Dark.png" alt="Queryz" height="60"/>
-    </a>
-</p>
-
-<h3>📦 Other</h3>
-
-<p align="left">
-    <a href="https://github.com/gordon-matt/Inferno" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/Inferno/raw/master/InfernoCMS/wwwroot/img/Logo_Dark.png" alt="Inferno" height="60"/>
-    </a>&nbsp;
-    <a href="https://github.com/gordon-matt/MantleCMS" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/MantleCMS/raw/master/MantleCMS/wwwroot/img/logo.png" alt="MantleCMS" height="60"/>
     </a>
 </p>
 
