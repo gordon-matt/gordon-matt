@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Matt Gordon&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 308, Total Commits  (last year) : 1001, Total PRs: 19, Total Issues: 162, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 308, Total Commits  (last year) : 1002, Total PRs: 19, Total Issues: 162, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 77.04023154448477;
+        stroke-dashoffset: 77.03300304693491;
       }
     }
   
