@@ -90,17 +90,20 @@
     <a href="https://github.com/gordon-matt/Kinnect" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Kinnect/raw/master/_Misc/Logo.png" alt="Kinnect" height="60"/>
     </a>&nbsp;
+    <a href="https://github.com/gordon-matt/Shelfwarden" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/Shelfwarden/raw/master/_Misc/Logo.png" alt="Shelfwarden" height="60"/>
+    </a>&nbsp;
     <a href="https://github.com/gordon-matt/MyVideoArchive" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/MyVideoArchive/raw/master/_Misc/Logo_Background.jpg" alt="MyVideoArchive" height="60"/>
+    </a>&nbsp;
+    <a href="https://github.com/gordon-matt/ArcaFS" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/ArcaFS/raw/master/_Misc/Logo.png" alt="ArcaFS" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/PicStashly" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/PicStashly/raw/master/_Misc/Logo.png" alt="PicStashly" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/ReelSoon" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/ReelSoon/raw/master/_Misc/Logo.png" alt="ReelSoon" height="60"/>
-    </a>&nbsp;
-    <a href="https://github.com/gordon-matt/Shelfwarden" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gordon-matt/Shelfwarden/raw/master/_Misc/Logo.png" alt="Shelfwarden" height="60"/>
     </a>&nbsp;
     <a href="https://github.com/gordon-matt/Snippetz" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Snippetz/raw/master/_Misc/Logo.jpg" alt="Snippetz" height="60"/>
