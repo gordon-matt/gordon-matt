@@ -70,6 +70,9 @@
     <a href="https://github.com/gordon-matt/Kameleon" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Kameleon/raw/master/_Misc/Logo.png" alt="Kameleon" height="60"/>
     </a>&nbsp;
+    <a href="https://github.com/gordon-matt/Forumz" target="_blank" rel="noreferrer">
+        <img src="https://github.com/gordon-matt/Forumz/raw/master/_Misc/Logo.png" alt="Forumz" height="60"/>
+    </a>&nbsp;
     <a href="https://github.com/gordon-matt/Flatmate" target="_blank" rel="noreferrer">
         <img src="https://github.com/gordon-matt/Flatmate/raw/master/_Misc/Logo.png" alt="Flatmate" height="60"/>
     </a>&nbsp;
